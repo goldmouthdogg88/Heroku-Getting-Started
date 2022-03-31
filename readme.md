@@ -1,0 +1,12 @@
+https://devcenter.heroku.com/articles/heroku-cli#verify-your-installation
+https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true
+https://dashboard.heroku.com/apps
+https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true
+https://devcenter.heroku.com/articles/node-best-practices
+https://devcenter.heroku.com/categories/nodejs-support
+https://devcenter.heroku.com/articles/node-best-practices
+https://devcenter.heroku.com/articles/node-with-grunt
+https://devcenter.heroku.com/articles/troubleshooting-node-deploys
+https://devcenter.heroku.com/articles/gitignore
+https://devcenter.heroku.com/articles/getting-started-with-nodejs
+https://devcenter.heroku.com/articles/deploying-nodejs
